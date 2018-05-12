@@ -16,7 +16,7 @@ function whileLoop(n) {
 }
 
 function maybeTrue(array){
-  if array {
+  if array (array) {
     return true;
   } else {
     return false;
