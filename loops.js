@@ -19,6 +19,6 @@ function doWhileLoop(array){
   do {
     array.slice (0, array.length - 1)
   } while {
-    
+    array == true;
   }
 }
