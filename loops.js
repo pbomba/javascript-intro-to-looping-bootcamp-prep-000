@@ -16,15 +16,16 @@ function whileLoop(n) {
 }
 
 function maybeTrue(array){
-  if array (array) {
+  if (array === true) {
     return true;
   } else {
     return false;
   }
+}
 
 function doWhileLoop(array){
   do {
     array.slice (0, array.length - 1);
   } while
-    (array === true);
+    (maybeTrue === true);
 }
